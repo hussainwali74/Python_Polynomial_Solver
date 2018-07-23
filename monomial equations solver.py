@@ -35,3 +35,5 @@ elif option == 4:
 
 
 
+print("hello")
+print("world")
